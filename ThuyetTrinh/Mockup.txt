@@ -1,1 +1,9 @@
 https://balsamiq.cloud/s19cw04/palju1p
+
+
+--Nhận use--
+Quang: Quản lý nhân viên, Xem phòng
+Dương: Quản lý tài khoản, quản lý đặt phòng
+Tùng: Đăng nhập, xuất hóa đơn
+Thắng: Quản lý khách thuê, quản lý phòng trọ
+Tuyên: Khóa phòng, trả phòng, đăng xuất
